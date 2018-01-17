@@ -1,7 +1,7 @@
 # functional-programming
 Course on functional programming using Haskell, Elm, Elixir, f#
 
-##List of lectures:
+## List of lectures:
 - [Part 1. Introduction](https://www.youtube.com/watch?v=oPDV1psVrX0).
 - [Part 2. Functions and Data](https://www.youtube.com/watch?v=BsQWLprnNKM).
 - [Bonus. About lambda-calculus](https://www.youtube.com/watch?v=fn_nyNgJYWs).
