@@ -6,6 +6,7 @@ Course on functional programming using Haskell, Elm, Elixir, f#
 - [Part 2. Functions and Data](https://www.youtube.com/watch?v=BsQWLprnNKM).
 - [Bonus. About lambda-calculus](https://www.youtube.com/watch?v=fn_nyNgJYWs).
 - [Part 3. More Functions and More Data](https://www.youtube.com/watch?v=LT0ClhNNbYU).
+- [Part 4. Functional and Other Programmings](https://youtu.be/3IfyYmQ6MbU).
 
 ## Practice Questions
 - [Questions](https://github.com/dmitryrogozhny/functional-programming/blob/master/questions.md).
